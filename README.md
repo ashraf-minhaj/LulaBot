@@ -1,4 +1,4 @@
-# RolBot Arduino rolling robot
+# LulaBot Arduino rolling robot
 
 Simple easy and yet fun to play with robot that can be controlled using android smart phone.
 
